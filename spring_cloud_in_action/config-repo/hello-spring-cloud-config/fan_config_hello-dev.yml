@@ -1,3 +1,5 @@
 spring:
     application:
         name: first-spring-cloud-config-client
+database:
+    url: www.google.com
