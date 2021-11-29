@@ -2,4 +2,4 @@ spring:
     application:
         name: first-spring-cloud-config-client
 database:
-    url: https://lol.qq.com
+    url: https://lol.qq.com/member
